@@ -1,0 +1,1 @@
+This program should run everything correctly, and will only write to System.out in case of an error such as unspecified log name or if the commands script is not given.
